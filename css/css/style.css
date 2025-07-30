@@ -1,5 +1,52 @@
 body {
+ body {
   font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f4f8;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #00ffa5;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 2rem;
+}
+
+.app-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ddd;
+  max-width: 400px;
+  margin: auto;
+}
+
+.app-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f1f1f1;
+  color: #333;
+  margin-top: 2rem;
+} font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
   background-color: #fefefe;
@@ -35,4 +82,4 @@ main {
   width: 100%;
   max-width: 300px;
   border-radius: 4px;
-}
+}Update style.css
