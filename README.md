@@ -1,6 +1,6 @@
-# Zaki_apphub# 🦁 Zaki AppHub
+# 🦁 Zaki AppHub
 
-Wannan shine official website na Zaki & Nazeefi don apps, games, da fasaha.
+Wannan shine official website na Zaki & Nazeefi don apps, games, da fasaha.  
 Zaku iya samun wasanninmu da sabbin abubuwan da muka kirkira a nan!
 
 ## 🔗 Live Website
@@ -12,4 +12,4 @@ Zaku iya samun wasanninmu da sabbin abubuwan da muka kirkira a nan!
 - Learn with Zaki (Coming Soon)
 
 ## 📧 Tuntuɓi Mu
-📩 nazeefi.zaki@apphub.com *(fake email - canza da naka idan kana so)*
+📩 nazeefi.zaki@apphub.com *(canza da real email idan kana da shi)*
